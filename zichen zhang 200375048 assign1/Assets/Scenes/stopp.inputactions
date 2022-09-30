@@ -1,0 +1,34 @@
+{
+    "name": "New Controls 1",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "a1289094-cb22-4cd9-89a9-67259d88df38",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "caf77f96-f087-4915-a538-bfe4abd70cdb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f86ed697-8dd7-426f-aad6-f1492989dbba",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
